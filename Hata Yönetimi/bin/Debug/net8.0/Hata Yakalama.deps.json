@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Hata Yakalama/1.0.0": {
+        "runtime": {
+          "Hata Yakalama.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Hata Yakalama/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+c:\Users\kasim\Desktop\Hata Yakalama\bin\Debug\net8.0\Hata Yakalama.exe
+c:\Users\kasim\Desktop\Hata Yakalama\bin\Debug\net8.0\Hata Yakalama.deps.json
+c:\Users\kasim\Desktop\Hata Yakalama\bin\Debug\net8.0\Hata Yakalama.runtimeconfig.json
+c:\Users\kasim\Desktop\Hata Yakalama\bin\Debug\net8.0\Hata Yakalama.dll
+c:\Users\kasim\Desktop\Hata Yakalama\bin\Debug\net8.0\Hata Yakalama.pdb
+c:\Users\kasim\Desktop\Hata Yakalama\obj\Debug\net8.0\Hata Yakalama.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\kasim\Desktop\Hata Yakalama\obj\Debug\net8.0\Hata Yakalama.AssemblyInfoInputs.cache
+c:\Users\kasim\Desktop\Hata Yakalama\obj\Debug\net8.0\Hata Yakalama.AssemblyInfo.cs
+c:\Users\kasim\Desktop\Hata Yakalama\obj\Debug\net8.0\Hata Yakalama.csproj.CoreCompileInputs.cache
+c:\Users\kasim\Desktop\Hata Yakalama\obj\Debug\net8.0\Hata Yakalama.dll
+c:\Users\kasim\Desktop\Hata Yakalama\obj\Debug\net8.0\refint\Hata Yakalama.dll
+c:\Users\kasim\Desktop\Hata Yakalama\obj\Debug\net8.0\Hata Yakalama.pdb
+c:\Users\kasim\Desktop\Hata Yakalama\obj\Debug\net8.0\Hata Yakalama.genruntimeconfig.cache
+c:\Users\kasim\Desktop\Hata Yakalama\obj\Debug\net8.0\ref\Hata Yakalama.dll
