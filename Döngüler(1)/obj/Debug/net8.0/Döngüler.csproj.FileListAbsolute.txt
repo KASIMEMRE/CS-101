@@ -1,0 +1,14 @@
+c:\Users\kasim\Desktop\Döngüler\bin\Debug\net8.0\Döngüler.exe
+c:\Users\kasim\Desktop\Döngüler\bin\Debug\net8.0\Döngüler.deps.json
+c:\Users\kasim\Desktop\Döngüler\bin\Debug\net8.0\Döngüler.runtimeconfig.json
+c:\Users\kasim\Desktop\Döngüler\bin\Debug\net8.0\Döngüler.dll
+c:\Users\kasim\Desktop\Döngüler\bin\Debug\net8.0\Döngüler.pdb
+c:\Users\kasim\Desktop\Döngüler\obj\Debug\net8.0\Döngüler.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\kasim\Desktop\Döngüler\obj\Debug\net8.0\Döngüler.AssemblyInfoInputs.cache
+c:\Users\kasim\Desktop\Döngüler\obj\Debug\net8.0\Döngüler.AssemblyInfo.cs
+c:\Users\kasim\Desktop\Döngüler\obj\Debug\net8.0\Döngüler.csproj.CoreCompileInputs.cache
+c:\Users\kasim\Desktop\Döngüler\obj\Debug\net8.0\Döngüler.dll
+c:\Users\kasim\Desktop\Döngüler\obj\Debug\net8.0\refint\Döngüler.dll
+c:\Users\kasim\Desktop\Döngüler\obj\Debug\net8.0\Döngüler.pdb
+c:\Users\kasim\Desktop\Döngüler\obj\Debug\net8.0\Döngüler.genruntimeconfig.cache
+c:\Users\kasim\Desktop\Döngüler\obj\Debug\net8.0\ref\Döngüler.dll
