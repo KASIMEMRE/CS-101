@@ -1,0 +1,14 @@
+c:\Users\kasim\Desktop\Tip Dönüşümleri\bin\Debug\net8.0\Tip Dönüşümleri.exe
+c:\Users\kasim\Desktop\Tip Dönüşümleri\bin\Debug\net8.0\Tip Dönüşümleri.deps.json
+c:\Users\kasim\Desktop\Tip Dönüşümleri\bin\Debug\net8.0\Tip Dönüşümleri.runtimeconfig.json
+c:\Users\kasim\Desktop\Tip Dönüşümleri\bin\Debug\net8.0\Tip Dönüşümleri.dll
+c:\Users\kasim\Desktop\Tip Dönüşümleri\bin\Debug\net8.0\Tip Dönüşümleri.pdb
+c:\Users\kasim\Desktop\Tip Dönüşümleri\obj\Debug\net8.0\Tip Dönüşümleri.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\kasim\Desktop\Tip Dönüşümleri\obj\Debug\net8.0\Tip Dönüşümleri.AssemblyInfoInputs.cache
+c:\Users\kasim\Desktop\Tip Dönüşümleri\obj\Debug\net8.0\Tip Dönüşümleri.AssemblyInfo.cs
+c:\Users\kasim\Desktop\Tip Dönüşümleri\obj\Debug\net8.0\Tip Dönüşümleri.csproj.CoreCompileInputs.cache
+c:\Users\kasim\Desktop\Tip Dönüşümleri\obj\Debug\net8.0\Tip Dönüşümleri.dll
+c:\Users\kasim\Desktop\Tip Dönüşümleri\obj\Debug\net8.0\refint\Tip Dönüşümleri.dll
+c:\Users\kasim\Desktop\Tip Dönüşümleri\obj\Debug\net8.0\Tip Dönüşümleri.pdb
+c:\Users\kasim\Desktop\Tip Dönüşümleri\obj\Debug\net8.0\Tip Dönüşümleri.genruntimeconfig.cache
+c:\Users\kasim\Desktop\Tip Dönüşümleri\obj\Debug\net8.0\ref\Tip Dönüşümleri.dll
