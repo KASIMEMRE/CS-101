@@ -1,0 +1,14 @@
+c:\Users\kasim\Desktop\.Net CORE\bin\Debug\net8.0\.Net CORE.exe
+c:\Users\kasim\Desktop\.Net CORE\bin\Debug\net8.0\.Net CORE.deps.json
+c:\Users\kasim\Desktop\.Net CORE\bin\Debug\net8.0\.Net CORE.runtimeconfig.json
+c:\Users\kasim\Desktop\.Net CORE\bin\Debug\net8.0\.Net CORE.dll
+c:\Users\kasim\Desktop\.Net CORE\bin\Debug\net8.0\.Net CORE.pdb
+c:\Users\kasim\Desktop\.Net CORE\obj\Debug\net8.0\.Net CORE.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\kasim\Desktop\.Net CORE\obj\Debug\net8.0\.Net CORE.AssemblyInfoInputs.cache
+c:\Users\kasim\Desktop\.Net CORE\obj\Debug\net8.0\.Net CORE.AssemblyInfo.cs
+c:\Users\kasim\Desktop\.Net CORE\obj\Debug\net8.0\.Net CORE.csproj.CoreCompileInputs.cache
+c:\Users\kasim\Desktop\.Net CORE\obj\Debug\net8.0\.Net CORE.dll
+c:\Users\kasim\Desktop\.Net CORE\obj\Debug\net8.0\refint\.Net CORE.dll
+c:\Users\kasim\Desktop\.Net CORE\obj\Debug\net8.0\.Net CORE.pdb
+c:\Users\kasim\Desktop\.Net CORE\obj\Debug\net8.0\.Net CORE.genruntimeconfig.cache
+c:\Users\kasim\Desktop\.Net CORE\obj\Debug\net8.0\ref\.Net CORE.dll
