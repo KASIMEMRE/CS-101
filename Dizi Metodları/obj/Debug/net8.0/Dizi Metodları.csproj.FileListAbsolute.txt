@@ -1,0 +1,14 @@
+c:\Users\kasim\Desktop\Dizi Metodları\bin\Debug\net8.0\Dizi Metodları.exe
+c:\Users\kasim\Desktop\Dizi Metodları\bin\Debug\net8.0\Dizi Metodları.deps.json
+c:\Users\kasim\Desktop\Dizi Metodları\bin\Debug\net8.0\Dizi Metodları.runtimeconfig.json
+c:\Users\kasim\Desktop\Dizi Metodları\bin\Debug\net8.0\Dizi Metodları.dll
+c:\Users\kasim\Desktop\Dizi Metodları\bin\Debug\net8.0\Dizi Metodları.pdb
+c:\Users\kasim\Desktop\Dizi Metodları\obj\Debug\net8.0\Dizi Metodları.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\kasim\Desktop\Dizi Metodları\obj\Debug\net8.0\Dizi Metodları.AssemblyInfoInputs.cache
+c:\Users\kasim\Desktop\Dizi Metodları\obj\Debug\net8.0\Dizi Metodları.AssemblyInfo.cs
+c:\Users\kasim\Desktop\Dizi Metodları\obj\Debug\net8.0\Dizi Metodları.csproj.CoreCompileInputs.cache
+c:\Users\kasim\Desktop\Dizi Metodları\obj\Debug\net8.0\Dizi Metodları.dll
+c:\Users\kasim\Desktop\Dizi Metodları\obj\Debug\net8.0\refint\Dizi Metodları.dll
+c:\Users\kasim\Desktop\Dizi Metodları\obj\Debug\net8.0\Dizi Metodları.pdb
+c:\Users\kasim\Desktop\Dizi Metodları\obj\Debug\net8.0\Dizi Metodları.genruntimeconfig.cache
+c:\Users\kasim\Desktop\Dizi Metodları\obj\Debug\net8.0\ref\Dizi Metodları.dll
