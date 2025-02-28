@@ -1,0 +1,14 @@
+c:\Users\kasim\Desktop\Diziler\bin\Debug\net8.0\Diziler.exe
+c:\Users\kasim\Desktop\Diziler\bin\Debug\net8.0\Diziler.deps.json
+c:\Users\kasim\Desktop\Diziler\bin\Debug\net8.0\Diziler.runtimeconfig.json
+c:\Users\kasim\Desktop\Diziler\bin\Debug\net8.0\Diziler.dll
+c:\Users\kasim\Desktop\Diziler\bin\Debug\net8.0\Diziler.pdb
+c:\Users\kasim\Desktop\Diziler\obj\Debug\net8.0\Diziler.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\kasim\Desktop\Diziler\obj\Debug\net8.0\Diziler.AssemblyInfoInputs.cache
+c:\Users\kasim\Desktop\Diziler\obj\Debug\net8.0\Diziler.AssemblyInfo.cs
+c:\Users\kasim\Desktop\Diziler\obj\Debug\net8.0\Diziler.csproj.CoreCompileInputs.cache
+c:\Users\kasim\Desktop\Diziler\obj\Debug\net8.0\Diziler.dll
+c:\Users\kasim\Desktop\Diziler\obj\Debug\net8.0\refint\Diziler.dll
+c:\Users\kasim\Desktop\Diziler\obj\Debug\net8.0\Diziler.pdb
+c:\Users\kasim\Desktop\Diziler\obj\Debug\net8.0\Diziler.genruntimeconfig.cache
+c:\Users\kasim\Desktop\Diziler\obj\Debug\net8.0\ref\Diziler.dll
