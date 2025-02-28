@@ -1,0 +1,14 @@
+c:\Users\kasim\Desktop\Hazır Metotlar\obj\Debug\net8.0\Hazır Metotlar.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\kasim\Desktop\Hazır Metotlar\obj\Debug\net8.0\Hazır Metotlar.AssemblyInfoInputs.cache
+c:\Users\kasim\Desktop\Hazır Metotlar\obj\Debug\net8.0\Hazır Metotlar.AssemblyInfo.cs
+c:\Users\kasim\Desktop\Hazır Metotlar\obj\Debug\net8.0\Hazır Metotlar.csproj.CoreCompileInputs.cache
+C:\Users\kasim\Desktop\Hazır Metotlar\bin\Debug\net8.0\Hazır Metotlar.exe
+C:\Users\kasim\Desktop\Hazır Metotlar\bin\Debug\net8.0\Hazır Metotlar.deps.json
+C:\Users\kasim\Desktop\Hazır Metotlar\bin\Debug\net8.0\Hazır Metotlar.runtimeconfig.json
+C:\Users\kasim\Desktop\Hazır Metotlar\bin\Debug\net8.0\Hazır Metotlar.dll
+C:\Users\kasim\Desktop\Hazır Metotlar\bin\Debug\net8.0\Hazır Metotlar.pdb
+C:\Users\kasim\Desktop\Hazır Metotlar\obj\Debug\net8.0\Hazır Metotlar.dll
+C:\Users\kasim\Desktop\Hazır Metotlar\obj\Debug\net8.0\refint\Hazır Metotlar.dll
+C:\Users\kasim\Desktop\Hazır Metotlar\obj\Debug\net8.0\Hazır Metotlar.pdb
+C:\Users\kasim\Desktop\Hazır Metotlar\obj\Debug\net8.0\Hazır Metotlar.genruntimeconfig.cache
+C:\Users\kasim\Desktop\Hazır Metotlar\obj\Debug\net8.0\ref\Hazır Metotlar.dll
