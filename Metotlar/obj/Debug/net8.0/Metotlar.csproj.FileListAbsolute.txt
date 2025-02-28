@@ -1,0 +1,14 @@
+c:\Users\kasim\Desktop\Metotlar\bin\Debug\net8.0\Metotlar.exe
+c:\Users\kasim\Desktop\Metotlar\bin\Debug\net8.0\Metotlar.deps.json
+c:\Users\kasim\Desktop\Metotlar\bin\Debug\net8.0\Metotlar.runtimeconfig.json
+c:\Users\kasim\Desktop\Metotlar\bin\Debug\net8.0\Metotlar.dll
+c:\Users\kasim\Desktop\Metotlar\bin\Debug\net8.0\Metotlar.pdb
+c:\Users\kasim\Desktop\Metotlar\obj\Debug\net8.0\Metotlar.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\kasim\Desktop\Metotlar\obj\Debug\net8.0\Metotlar.AssemblyInfoInputs.cache
+c:\Users\kasim\Desktop\Metotlar\obj\Debug\net8.0\Metotlar.AssemblyInfo.cs
+c:\Users\kasim\Desktop\Metotlar\obj\Debug\net8.0\Metotlar.csproj.CoreCompileInputs.cache
+c:\Users\kasim\Desktop\Metotlar\obj\Debug\net8.0\Metotlar.dll
+c:\Users\kasim\Desktop\Metotlar\obj\Debug\net8.0\refint\Metotlar.dll
+c:\Users\kasim\Desktop\Metotlar\obj\Debug\net8.0\Metotlar.pdb
+c:\Users\kasim\Desktop\Metotlar\obj\Debug\net8.0\Metotlar.genruntimeconfig.cache
+c:\Users\kasim\Desktop\Metotlar\obj\Debug\net8.0\ref\Metotlar.dll
