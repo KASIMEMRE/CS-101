@@ -1,0 +1,14 @@
+c:\Users\kasim\Desktop\Sorular\bin\Debug\net8.0\Sorular.exe
+c:\Users\kasim\Desktop\Sorular\bin\Debug\net8.0\Sorular.deps.json
+c:\Users\kasim\Desktop\Sorular\bin\Debug\net8.0\Sorular.runtimeconfig.json
+c:\Users\kasim\Desktop\Sorular\bin\Debug\net8.0\Sorular.dll
+c:\Users\kasim\Desktop\Sorular\bin\Debug\net8.0\Sorular.pdb
+c:\Users\kasim\Desktop\Sorular\obj\Debug\net8.0\Sorular.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\kasim\Desktop\Sorular\obj\Debug\net8.0\Sorular.AssemblyInfoInputs.cache
+c:\Users\kasim\Desktop\Sorular\obj\Debug\net8.0\Sorular.AssemblyInfo.cs
+c:\Users\kasim\Desktop\Sorular\obj\Debug\net8.0\Sorular.csproj.CoreCompileInputs.cache
+c:\Users\kasim\Desktop\Sorular\obj\Debug\net8.0\Sorular.dll
+c:\Users\kasim\Desktop\Sorular\obj\Debug\net8.0\refint\Sorular.dll
+c:\Users\kasim\Desktop\Sorular\obj\Debug\net8.0\Sorular.pdb
+c:\Users\kasim\Desktop\Sorular\obj\Debug\net8.0\Sorular.genruntimeconfig.cache
+c:\Users\kasim\Desktop\Sorular\obj\Debug\net8.0\ref\Sorular.dll
