@@ -1,0 +1,14 @@
+c:\Users\kasim\Desktop\Sınıflar\bin\Debug\net8.0\Sınıflar.exe
+c:\Users\kasim\Desktop\Sınıflar\bin\Debug\net8.0\Sınıflar.deps.json
+c:\Users\kasim\Desktop\Sınıflar\bin\Debug\net8.0\Sınıflar.runtimeconfig.json
+c:\Users\kasim\Desktop\Sınıflar\bin\Debug\net8.0\Sınıflar.dll
+c:\Users\kasim\Desktop\Sınıflar\bin\Debug\net8.0\Sınıflar.pdb
+c:\Users\kasim\Desktop\Sınıflar\obj\Debug\net8.0\Sınıflar.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\kasim\Desktop\Sınıflar\obj\Debug\net8.0\Sınıflar.AssemblyInfoInputs.cache
+c:\Users\kasim\Desktop\Sınıflar\obj\Debug\net8.0\Sınıflar.AssemblyInfo.cs
+c:\Users\kasim\Desktop\Sınıflar\obj\Debug\net8.0\Sınıflar.csproj.CoreCompileInputs.cache
+c:\Users\kasim\Desktop\Sınıflar\obj\Debug\net8.0\Sınıflar.dll
+c:\Users\kasim\Desktop\Sınıflar\obj\Debug\net8.0\refint\Sınıflar.dll
+c:\Users\kasim\Desktop\Sınıflar\obj\Debug\net8.0\Sınıflar.pdb
+c:\Users\kasim\Desktop\Sınıflar\obj\Debug\net8.0\Sınıflar.genruntimeconfig.cache
+c:\Users\kasim\Desktop\Sınıflar\obj\Debug\net8.0\ref\Sınıflar.dll
