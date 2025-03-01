@@ -1,0 +1,14 @@
+C:\Users\kasim\Desktop\Static Sınıf ve Üyeler\bin\Debug\net8.0\Static Sınıf ve Üyeler.exe
+C:\Users\kasim\Desktop\Static Sınıf ve Üyeler\bin\Debug\net8.0\Static Sınıf ve Üyeler.deps.json
+C:\Users\kasim\Desktop\Static Sınıf ve Üyeler\bin\Debug\net8.0\Static Sınıf ve Üyeler.runtimeconfig.json
+C:\Users\kasim\Desktop\Static Sınıf ve Üyeler\bin\Debug\net8.0\Static Sınıf ve Üyeler.dll
+C:\Users\kasim\Desktop\Static Sınıf ve Üyeler\bin\Debug\net8.0\Static Sınıf ve Üyeler.pdb
+C:\Users\kasim\Desktop\Static Sınıf ve Üyeler\obj\Debug\net8.0\Static Sınıf ve Üyeler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kasim\Desktop\Static Sınıf ve Üyeler\obj\Debug\net8.0\Static Sınıf ve Üyeler.AssemblyInfoInputs.cache
+C:\Users\kasim\Desktop\Static Sınıf ve Üyeler\obj\Debug\net8.0\Static Sınıf ve Üyeler.AssemblyInfo.cs
+C:\Users\kasim\Desktop\Static Sınıf ve Üyeler\obj\Debug\net8.0\Static Sınıf ve Üyeler.csproj.CoreCompileInputs.cache
+C:\Users\kasim\Desktop\Static Sınıf ve Üyeler\obj\Debug\net8.0\Static Sınıf ve Üyeler.dll
+C:\Users\kasim\Desktop\Static Sınıf ve Üyeler\obj\Debug\net8.0\refint\Static Sınıf ve Üyeler.dll
+C:\Users\kasim\Desktop\Static Sınıf ve Üyeler\obj\Debug\net8.0\Static Sınıf ve Üyeler.pdb
+C:\Users\kasim\Desktop\Static Sınıf ve Üyeler\obj\Debug\net8.0\Static Sınıf ve Üyeler.genruntimeconfig.cache
+C:\Users\kasim\Desktop\Static Sınıf ve Üyeler\obj\Debug\net8.0\ref\Static Sınıf ve Üyeler.dll
