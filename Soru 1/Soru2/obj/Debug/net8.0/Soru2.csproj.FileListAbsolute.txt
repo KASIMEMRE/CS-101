@@ -1,0 +1,14 @@
+C:\Users\kasim\Desktop\Soru2\bin\Debug\net8.0\Soru2.exe
+C:\Users\kasim\Desktop\Soru2\bin\Debug\net8.0\Soru2.deps.json
+C:\Users\kasim\Desktop\Soru2\bin\Debug\net8.0\Soru2.runtimeconfig.json
+C:\Users\kasim\Desktop\Soru2\bin\Debug\net8.0\Soru2.dll
+C:\Users\kasim\Desktop\Soru2\bin\Debug\net8.0\Soru2.pdb
+C:\Users\kasim\Desktop\Soru2\obj\Debug\net8.0\Soru2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kasim\Desktop\Soru2\obj\Debug\net8.0\Soru2.AssemblyInfoInputs.cache
+C:\Users\kasim\Desktop\Soru2\obj\Debug\net8.0\Soru2.AssemblyInfo.cs
+C:\Users\kasim\Desktop\Soru2\obj\Debug\net8.0\Soru2.csproj.CoreCompileInputs.cache
+C:\Users\kasim\Desktop\Soru2\obj\Debug\net8.0\Soru2.dll
+C:\Users\kasim\Desktop\Soru2\obj\Debug\net8.0\refint\Soru2.dll
+C:\Users\kasim\Desktop\Soru2\obj\Debug\net8.0\Soru2.pdb
+C:\Users\kasim\Desktop\Soru2\obj\Debug\net8.0\Soru2.genruntimeconfig.cache
+C:\Users\kasim\Desktop\Soru2\obj\Debug\net8.0\ref\Soru2.dll
