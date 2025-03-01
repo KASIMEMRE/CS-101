@@ -1,0 +1,14 @@
+c:\Users\kasim\Desktop\Koleksiyonlar\bin\Debug\net8.0\Koleksiyonlar.exe
+c:\Users\kasim\Desktop\Koleksiyonlar\bin\Debug\net8.0\Koleksiyonlar.deps.json
+c:\Users\kasim\Desktop\Koleksiyonlar\bin\Debug\net8.0\Koleksiyonlar.runtimeconfig.json
+c:\Users\kasim\Desktop\Koleksiyonlar\bin\Debug\net8.0\Koleksiyonlar.dll
+c:\Users\kasim\Desktop\Koleksiyonlar\bin\Debug\net8.0\Koleksiyonlar.pdb
+c:\Users\kasim\Desktop\Koleksiyonlar\obj\Debug\net8.0\Koleksiyonlar.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\kasim\Desktop\Koleksiyonlar\obj\Debug\net8.0\Koleksiyonlar.AssemblyInfoInputs.cache
+c:\Users\kasim\Desktop\Koleksiyonlar\obj\Debug\net8.0\Koleksiyonlar.AssemblyInfo.cs
+c:\Users\kasim\Desktop\Koleksiyonlar\obj\Debug\net8.0\Koleksiyonlar.csproj.CoreCompileInputs.cache
+c:\Users\kasim\Desktop\Koleksiyonlar\obj\Debug\net8.0\Koleksiyonlar.dll
+c:\Users\kasim\Desktop\Koleksiyonlar\obj\Debug\net8.0\refint\Koleksiyonlar.dll
+c:\Users\kasim\Desktop\Koleksiyonlar\obj\Debug\net8.0\Koleksiyonlar.pdb
+c:\Users\kasim\Desktop\Koleksiyonlar\obj\Debug\net8.0\Koleksiyonlar.genruntimeconfig.cache
+c:\Users\kasim\Desktop\Koleksiyonlar\obj\Debug\net8.0\ref\Koleksiyonlar.dll
