@@ -1,0 +1,14 @@
+c:\Users\kasim\Desktop\Dictionary\bin\Debug\net8.0\Dictionary.exe
+c:\Users\kasim\Desktop\Dictionary\bin\Debug\net8.0\Dictionary.deps.json
+c:\Users\kasim\Desktop\Dictionary\bin\Debug\net8.0\Dictionary.runtimeconfig.json
+c:\Users\kasim\Desktop\Dictionary\bin\Debug\net8.0\Dictionary.dll
+c:\Users\kasim\Desktop\Dictionary\bin\Debug\net8.0\Dictionary.pdb
+c:\Users\kasim\Desktop\Dictionary\obj\Debug\net8.0\Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\kasim\Desktop\Dictionary\obj\Debug\net8.0\Dictionary.AssemblyInfoInputs.cache
+c:\Users\kasim\Desktop\Dictionary\obj\Debug\net8.0\Dictionary.AssemblyInfo.cs
+c:\Users\kasim\Desktop\Dictionary\obj\Debug\net8.0\Dictionary.csproj.CoreCompileInputs.cache
+c:\Users\kasim\Desktop\Dictionary\obj\Debug\net8.0\Dictionary.dll
+c:\Users\kasim\Desktop\Dictionary\obj\Debug\net8.0\refint\Dictionary.dll
+c:\Users\kasim\Desktop\Dictionary\obj\Debug\net8.0\Dictionary.pdb
+c:\Users\kasim\Desktop\Dictionary\obj\Debug\net8.0\Dictionary.genruntimeconfig.cache
+c:\Users\kasim\Desktop\Dictionary\obj\Debug\net8.0\ref\Dictionary.dll
