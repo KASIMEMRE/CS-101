@@ -1,0 +1,14 @@
+C:\Users\kasim\Desktop\Struct Kavramı\bin\Debug\net8.0\Struct Kavramı.exe
+C:\Users\kasim\Desktop\Struct Kavramı\bin\Debug\net8.0\Struct Kavramı.deps.json
+C:\Users\kasim\Desktop\Struct Kavramı\bin\Debug\net8.0\Struct Kavramı.runtimeconfig.json
+C:\Users\kasim\Desktop\Struct Kavramı\bin\Debug\net8.0\Struct Kavramı.dll
+C:\Users\kasim\Desktop\Struct Kavramı\bin\Debug\net8.0\Struct Kavramı.pdb
+C:\Users\kasim\Desktop\Struct Kavramı\obj\Debug\net8.0\Struct Kavramı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kasim\Desktop\Struct Kavramı\obj\Debug\net8.0\Struct Kavramı.AssemblyInfoInputs.cache
+C:\Users\kasim\Desktop\Struct Kavramı\obj\Debug\net8.0\Struct Kavramı.AssemblyInfo.cs
+C:\Users\kasim\Desktop\Struct Kavramı\obj\Debug\net8.0\Struct Kavramı.csproj.CoreCompileInputs.cache
+C:\Users\kasim\Desktop\Struct Kavramı\obj\Debug\net8.0\Struct Kavramı.dll
+C:\Users\kasim\Desktop\Struct Kavramı\obj\Debug\net8.0\refint\Struct Kavramı.dll
+C:\Users\kasim\Desktop\Struct Kavramı\obj\Debug\net8.0\Struct Kavramı.pdb
+C:\Users\kasim\Desktop\Struct Kavramı\obj\Debug\net8.0\Struct Kavramı.genruntimeconfig.cache
+C:\Users\kasim\Desktop\Struct Kavramı\obj\Debug\net8.0\ref\Struct Kavramı.dll
